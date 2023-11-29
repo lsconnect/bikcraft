@@ -153,10 +153,10 @@
 }
 
 @media (max-width: 1200px) {
-}
-.orcamento-produto,
-.orcamento-dados {
-  padding: 32px;
+  .orcamento-produto,
+  .orcamento-dados {
+    padding: 32px;
+  }
 }
 
 @media (max-width: 800px) {
